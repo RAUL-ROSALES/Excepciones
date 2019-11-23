@@ -1,0 +1,19 @@
+utilizando el  sistema ;
+utilizando el  sistema . Colecciones . Genérico ;
+utilizando el  sistema . Linq ;
+utilizando el  sistema . Texto ;
+utilizando el  sistema . Threading . tareas ;
+
+espacio de nombres  Execion
+{
+    Alumno de clase  pública
+    {
+        public  int  Matricula { get ; establecer ; }
+         cadena  pública Nombre { get ; establecer ; }
+
+        public  int  Smestre { get ; establecer ; }
+         cadena  pública Carrera { get ; establecer ; }
+        public  int  Telefono { get ; establecer ; }
+
+    }
+}
